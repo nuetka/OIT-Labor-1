@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+  padding: 0;
+  color: #411F1F;
+  font-family: 'Prompt', sans-serif ;
+  font-size: 15px;
+}
+
+.header {
+	background: #FFE4E4;
+}
+
+.thumb img  {
+    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+    padding: 15px; /* Расстояние от картинки до рамки */
+    background: #666; /* Цвет фона */
+    margin-right: 10px; /* Отступ справа */
+    margin-bottom: 10px; /* Отступ снизу */
+   }
+
